@@ -1,0 +1,54 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Eiffel Tower",
+      "description": "An iconic symbol of Paris, France.",
+      "coordinates": {
+        "lat": 48.858844,
+        "lng": 2.294351
+      },
+      "image": "https://example.com/images/eiffel_tower.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Statue of Liberty",
+      "description": "A symbol of freedom and democracy located in New York City, USA.",
+      "coordinates": {
+        "lat": 40.689247,
+        "lng": -74.044502
+      },
+      "image": "https://example.com/images/statue_of_liberty.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Great Wall of China",
+      "description": "A series of fortifications made of various materials, stretching across northern China.",
+      "coordinates": {
+        "lat": 40.431908,
+        "lng": 116.570374
+      },
+      "image": "https://example.com/images/great_wall_of_china.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Machu Picchu",
+      "description": "An ancient Incan city located in the Andes mountains of Peru.",
+      "coordinates": {
+        "lat": -13.163068,
+        "lng": -72.545128
+      },
+      "image": "https://example.com/images/machu_picchu.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sydney Opera House",
+      "description": "A multi-venue performing arts center in Sydney, Australia.",
+      "coordinates": {
+        "lat": -33.856784,
+        "lng": 151.215297
+      },
+      "image": "https://example.com/images/sydney_opera_house.jpg"
+    }
+  ]
+}
